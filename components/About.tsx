@@ -17,7 +17,7 @@ const About: React.FC = () => {
   const skills = [
     { name: '.NET', icon: '<span>.NET</span>' },
     { name: 'PHP', icon: '<span>PHP</span>' },
-    { name: 'ReactJS', icon: '<span>RJS</span>' },
+    { name: 'React', icon: '<span>React</span>' },
     { name: 'Django', icon: '<span>DJ</span>' },
     { name: 'MySQL', icon: '<span>SQL</span>' },
     { name: 'SQL Server', icon: '<span>Svr</span>' },
